@@ -1,3 +1,4 @@
+1)
 #15/04/2023
 class Solution:
     def findColumnWidth(self, g: List[List[int]]) -> List[int]:
