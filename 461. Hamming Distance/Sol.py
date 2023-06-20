@@ -31,3 +31,6 @@ class Solution:
             if y[i]!=x[i]:
                 v=v+1
         return v
+'''class Solution:
+    def hammingDistance(self, x: int, y: int) -> int:
+        return bin(x ^ y).count('1')'''
