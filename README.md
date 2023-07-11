@@ -1,1 +1,1 @@
-[![AYUSH10's GitHub | Topics Over Time](https://stats.quine.sh/AYUSH10/topics-over-time?theme=dark)](https://quine.sh)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=AYUSH_MOHANTY)](https://github.com/madushadhanushka/github-readme)
